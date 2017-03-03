@@ -5,7 +5,7 @@
   },
   "graphql": {
     "request": {
-      "url": "https://api.graph.cool/relay/v1/__PROJECT_ID__"
+      "url": "https://api.graph.cool/relay/v1/ciztvkg9p186j0105jzvwij5p"
     }
   },
   "dependencies": {

@@ -18,7 +18,7 @@ import './style.css'
 // The x-graphcool-source header is to let the server know that the example app has started.
 // (Not necessary for normal projects)
 Relay.injectNetworkLayer(
-  new Relay.DefaultNetworkLayer('https://api.graph.cool/relay/v1/__PROJECT_ID__', {
+  new Relay.DefaultNetworkLayer('https://api.graph.cool/relay/v1/ciztvkg9p186j0105jzvwij5p', {
     headers: {
       'x-graphcool-source': 'example:react-relay-todo',
     },
