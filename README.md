@@ -54,3 +54,17 @@ npm start
 Join our [Slack community](http://slack.graph.cool/) if you run into issues or have questions. We love talking to you!
 
 ![](http://i.imgur.com/5RHR6Ku.png)
+
+## Questions
+- createContainer - check API -- EV and VS
+- 'react-router-relay' why not react-router?  ( why queries={ViewerQueries}?) EV
+- fragment - what's the difference between all fragment -- EV and VS
+
+## TASK 1: 
+- CRUD priority
+- sort priority and show accordingly
+
+## TASK 2: 
+- request/show field A when you extend the block and check the browser network
+
+
